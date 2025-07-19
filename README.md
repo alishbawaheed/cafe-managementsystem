@@ -24,13 +24,17 @@ A Java-based desktop application developed using OOP and JavaFX to manage café 
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-|                                         Menu Tab                                         |                                      Place Order Tab                                      |                                      Calculator Tab                                      |
-| :--------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-| ![Menu](https://github.com/user-attachments/assets/ebf7f2a7-ec17-41ec-a617-2190d530cdf5) | ![Order](https://github.com/user-attachments/assets/95be0f0e-ddc0-4eee-9423-5331f0dabe7d) | ![Calc](https://github.com/user-attachments/assets/53cccc92-cee8-4305-8614-4d94cb257a3b) |
+### 1. Menu Interface
+![Menu](screenshots/menu.png)
 
----
+### 2. Place Order Interface
+![Place Order](screenshots/place order.png)
+
+### 3. Calculator Interface
+![Calculator](screenshots/calculator.png)
+
 
 ## 🚀 Getting Started
 
