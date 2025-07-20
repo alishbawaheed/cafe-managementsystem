@@ -5,11 +5,8 @@ A Java-based desktop application developed using OOP and JavaFX to manage café 
 ---
 
 ## 👩‍💻 Developed By
-
-- Maham Wazir
-- Alishba Waheed
-- Amna Manal
-- Barera Yasmeen
+  
+   Alishba Waheed
 
 ---
 
